@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Safaet Rabbi
 #### I am a Front End Developer and also a Programmer
-![I am a Front End Developer and also a Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Front End Developer and also a Programmer]
 
 Hello there, I am working as yoga instructor as part time but I am a undergraduate Computer Science student. I have learnt all front end development skills and did some projects. This field is really amazing to me. As I am a health concerned person, I do yoga and train yoga to others but now I want to work as a front end developer and I will give my best in it .
 
