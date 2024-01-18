@@ -21,8 +21,6 @@ Skills:  REACT / JS / HTML / CSS/BOOTSRAP/Python/C/C++/TYPESCRIPT/SASS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Safayat-Rabbi&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Safayat-Rabbi/contributions?format=svg&private=false)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Safaet-Rabbi)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Safayat-Rabbi)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Safayat-Rabbi)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Safaet-Rabbi)  
