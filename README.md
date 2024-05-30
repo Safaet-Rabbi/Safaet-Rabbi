@@ -4,7 +4,7 @@
 
 Hello there, I am working as yoga instructor as part time but I am a undergraduate Computer Science student. I have learnt all front end development skills and did some projects. This field is really amazing to me. As I am a health concerned person, I do yoga and train yoga to others but now I want to work as a front end developer and I will give my best in it .
 
-Skills:  HTML / CSS/ BOOTSRAP/ JS/ REACT/ Python/C/C++/TYPESCRIPT/SASS
+Skills:  HTML / CSS/ BOOTSRAP/ JS/ REACT/ PYTHON/C/C++/TYPESCRIPT/SASS/GIT/JAVA/FIGMA
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React JS 
