@@ -16,7 +16,6 @@ Skills:  HTML / CSS/ BOOTSRAP/ JS/ REACT/ PYTHON/C/C++/TYPESCRIPT/SASS/GIT/JAVA/
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safaet Rabbi)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Safayat-Rabbi&show_icons=true)  
 
 
 
