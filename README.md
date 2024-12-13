@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PostGreSQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-safaet-rabbis-projects.vercel.app](https://safaet-rabbi.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Safaet's Portfolio](https://portfolio-safaet-rabbis-projects.vercel.app)
 
 - 💬 Ask me about **React, JS, TypeScript, mySQL, Express**
 
